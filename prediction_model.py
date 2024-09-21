@@ -1,4 +1,4 @@
-import streamlit as sti
+import streamlit as st
 import joblib
 import numpy as np
 import pandas as pd
